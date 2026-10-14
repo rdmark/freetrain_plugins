@@ -45,7 +45,7 @@ Followings are sites and authors who agreed with packaging there works.
  Nanashi-san@Hokkaido san, Ken san, Mumei no hito san, Hatena kun san, 
  Nanashi-san no yabo san, masashi san
 
-+Authors of which plugins posted on uploder at "www.kosuke.org/freetrain".
++Authors of which plugins posted on uploader at "www.kohsuke.org/freetrain".
  Kei san, TAKUROU san, Ken san, Yua san, Sakuranishi mokeibu san, 
  RougetsuRouya san, Nanashi(kanji) san, haru san, Shino san, Nanashi-san san, 
  Te san, Moo05 san, Nanashi(kana) san, Ekio san, Hanabishi san, ChousenShitaHito san
